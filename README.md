@@ -1,5 +1,6 @@
 # machine-learning
-The above are the solutions for the machine learning course by andrew Ng on coursera .
+
+The above are the solutions for the assignments of machine learning course by andrew Ng on coursera .
 
 Ex1 - Linear Regression
 
